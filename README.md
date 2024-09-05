@@ -1,2 +1,3 @@
 # type_gaming
-this is a basic project with the help of html,css,js
+
+this is a basic project of front_end that can be help us to show our typing skills
